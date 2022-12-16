@@ -1,0 +1,76 @@
+,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION,NUMBER_OF_VOTES,DURATION,movie_tv,NUMBER_OF_SEASONS
+0,White Christmas,1954,7.5,romance,US,42373,115,movie,
+1,The Guns of Navarone,1961,7.5,war,US,50150,158,movie,
+2,My Fair Lady,1964,7.8,drama,US,94121,170,movie,
+3,Bonnie and Clyde,1967,7.7,drama,US,111189,110,movie,
+4,Dirty Harry,1971,7.7,thriller,US,153463,102,movie,
+5,The Exorcist,1973,8.1,horror,US,391942,133,movie,
+6,Monty Python and the Holy Grail,1975,8.2,comedy,GB,530877,91,movie,
+7,Taxi Driver,1976,8.3,crime,US,795222,113,movie,
+8,Life of Brian,1979,8.0,comedy,GB,392419,94,movie,
+9,Christine,1983,6.7,horror,US,14977,115,movie,
+10,Once Upon a Time in America,1984,8.3,drama,US,342335,229,movie,
+11,Stand by Me,1986,8.1,drama,US,392790,89,movie,
+12,Full Metal Jacket,1987,8.3,drama,GB,723306,116,movie,
+13,When Harry Met Sally...,1989,7.7,romance,US,212913,96,movie,
+14,Awakenings,1990,7.8,drama,US,137549,120,movie,
+15,My Girl,1991,6.9,comedy,US,79800,103,movie,
+16,A River Runs Through It,1992,7.2,drama,US,59086,123,movie,
+17,Menace II Society,1993,7.5,drama,US,57399,97,movie,
+18,Forrest Gump,1994,8.8,drama,US,1994599,142,movie,
+19,Desperado,1995,7.1,thriller,US,183638,104,movie,
+20,Happy Gilmore,1996,7.0,comedy,US,217534,92,movie,
+21,Neon Genesis Evangelion: The End of Evangelion,1997,8.0,scifi,JP,51938,87,movie,
+22,Saving Private Ryan,1998,8.6,drama,US,1346020,169,movie,
+23,"Girl, Interrupted",1999,7.3,drama,US,180532,127,movie,
+24,The Patriot,2000,7.2,drama,DE,270231,165,movie,
+25,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN,111053,224,movie,
+26,Road to Perdition,2002,7.7,thriller,US,263212,117,movie,
+27,Big Fish,2003,8.0,drama,US,435503,125,movie,
+28,Swades,2004,8.1,drama,IN,89085,189,movie,
+29,Memoirs of a Geisha,2005,7.3,drama,FR,146847,145,movie,
+30,Rang De Basanti,2006,8.1,comedy,IN,118092,157,movie,
+31,Like Stars on Earth,2007,8.3,drama,IN,188234,165,movie,
+32,Ip Man,2008,8.0,drama,HK,221095,108,movie,
+33,3 Idiots,2009,8.4,comedy,IN,385782,170,movie,
+34,Inception,2010,8.8,scifi,GB,2268288,148,movie,
+35,Warrior,2011,8.2,drama,US,463276,140,movie,
+36,Django Unchained,2012,8.4,western,US,1472668,165,movie,
+37,Rush,2013,8.1,drama,US,465254,123,movie,
+38,Queen,2014,8.2,drama,IN,64805,146,movie,
+39,Drishyam,2015,8.2,thriller,IN,79075,163,movie,
+40,Dangal,2016,8.4,action,IN,180247,161,movie,
+41,Bāhubali 2: The Conclusion,2017,8.2,fantasy,IN,91560,168,movie,
+42,Andhadhun,2018,8.2,thriller,IN,88359,139,movie,
+43,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US,25687,65,movie,
+44,David Attenborough: A Life on Our Planet,2020,9.0,documentary,GB,31180,83,movie,
+45,Bo Burnham: Inside,2021,8.7,comedy,US,44074,87,movie,
+46,The Tinder Swindler,2022,7.2,crime,GB,57606,114,movie,
+0,Monty Python's Flying Circus,1969,8.8,comedy,GB,72895,30,tv,4.0
+1,Seinfeld,1989,8.9,comedy,US,302700,24,tv,9.0
+2,Star Trek: Deep Space Nine,1993,8.1,scifi,US,61145,47,tv,7.0
+3,Neon Genesis Evangelion,1995,8.5,scifi,JP,64727,24,tv,1.0
+4,Stargate SG-1,1997,8.4,scifi,US,90196,44,tv,10.0
+5,Cowboy Bebop,1998,8.9,western,JP,112887,25,tv,1.0
+6,One Piece,1999,8.8,action,JP,112586,23,tv,21.0
+7,Gilmore Girls,2000,8.2,comedy,US,119054,46,tv,8.0
+8,Trailer Park Boys,2001,8.6,comedy,CA,41791,25,tv,12.0
+9,Naruto,2002,8.4,scifi,JP,93980,23,tv,6.0
+10,Chappelle's Show,2003,8.8,comedy,US,62140,21,tv,3.0
+11,Avatar: The Last Airbender,2005,9.3,scifi,US,297336,24,tv,3.0
+12,DEATH NOTE,2006,9.0,scifi,JP,302147,24,tv,1.0
+13,Breaking Bad,2008,9.5,drama,US,1727694,48,tv,5.0
+14,Community,2009,8.5,comedy,US,252564,23,tv,6.0
+15,Downton Abbey,2010,8.7,drama,GB,197744,58,tv,6.0
+16,Hunter x Hunter,2011,9.0,drama,JP,87857,23,tv,3.0
+17,Call the Midwife,2012,8.5,drama,GB,25562,56,tv,11.0
+18,Attack on Titan,2013,9.0,scifi,JP,325381,24,tv,4.0
+19,BoJack Horseman,2014,8.8,drama,US,143584,26,tv,6.0
+20,Better Call Saul,2015,8.8,comedy,US,404920,49,tv,6.0
+21,Stranger Things,2016,8.7,scifi,US,989090,52,tv,5.0
+22,Anne with an E,2017,8.7,drama,CA,51001,46,tv,3.0
+23,Cobra Kai,2018,8.6,action,US,163858,31,tv,5.0
+24,Kota Factory,2019,9.3,drama,IN,66985,42,tv,2.0
+25,The Last Dance,2020,9.1,documentary,US,108321,50,tv,1.0
+26,Arcane,2021,9.1,action,US,175412,41,tv,1.0
+27,Heartstopper,2022,8.9,drama,GB,28978,28,tv,1.0

@@ -1,0 +1,45 @@
+{
+	"intents": [{
+			"tag": "question1",
+			"patterns": ["most votes", "highest votes", "most popular", "movie", "movies", "most popular movie", "movie with the highest votes", "movie of the year"]
+		},
+		{
+			"tag": "question2",
+			"patterns": ["most votes", "highest votes", "most popular", "show", "shows", "most popular show", "show with highest votes", "show of the year"]
+		},
+		{
+			"tag": "question3",
+			"patterns": ["highest imdb", "highest score", "top score", "top imdb", "movie", "movies", "best movie", "which movie", "year", "which year"]
+		},
+		{
+			"tag": "question4",
+			"patterns": ["highest imdb", "highest score", "top score", "top imdb", "show", "shows", "best show"]
+		},
+		{
+			"tag": "question5",
+			"patterns": ["average runtime", "runtime", "movie", "movies"]
+		},
+		{
+			"tag": "question6",
+			"patterns": ["average runtime", "runtime", "show", "shows"]
+		},
+		{
+			"tag": "question7",
+			"patterns": ["genre", "most popular genre", "movie", "movies", "movie genre", "most popular movie genre"]
+		},
+		{
+			"tag": "question8",
+			"patterns": ["genre", "most popular genre", "show", "shows", "tv shows", "show genre", "most popular show genre"]
+		},
+		{
+			"tag": "question9",
+			"patterns": ["average number of seasons", "seasons", "top show", "show", "shows"]
+		},
+		{
+			"tag": "question10",
+			"patterns": ["lowest scoring", "low score", "lowest score", "movie", "movies", "year", "which year"]
+		}
+
+
+	]
+}
